@@ -3,7 +3,7 @@
   "id": "client_cmd_alias",
   "version": "${version}",
   "name": "Client Command Alias",
-  "description": "",
+  "description": "Client side command aliases.",
   "authors": [
     "MetaHerobrine1"
   ],

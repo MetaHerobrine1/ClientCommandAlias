@@ -4,7 +4,7 @@ FabricMC mod for creating command aliases on the client side.
 
 ## Installation
 
-Download the jar file from the [latest release](https://github.com/MetaHerobrine1/ClientCommandAlias/releases/latest) and place it in the `mods` folder in your [.minecraft folder](https://minecraft.fandom.com/wiki/.minecraft#Locating_.minecraft).
+Download the jar file from either [Modrinth](https://modrinth.com/mod/clientcommandalias), [Curse Forge](https://www.curseforge.com/minecraft/mc-mods/clientcommandalias) or the [releases page](https://github.com/MetaHerobrine1/ClientCommandAlias/releases/latest) and place it in the `mods` folder in your [.minecraft folder](https://minecraft.fandom.com/wiki/.minecraft#Locating_.minecraft).
 
 ## Aliases
 

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "client_cmd_alias",
+  "version": "${version}",
+  "name": "Client Command Alias",
+  "description": "",
+  "authors": [
+    "MetaHerobrine1"
+  ],
+  "contact": {
+    "homepage": "https://github.com/MetaHerobrine1/ClientCommandAlias#readme",
+    "issues": "https://github.com/MetaHerobrine1/ClientCommandAlias/issues",
+    "sources": "https://github.com/MetaHerobrine1/ClientCommandAlias"
+  },
+  "license": "All Rights Reserved",
+  "icon": "assets/client_cmd_alias/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      {
+        "adapter": "kotlin",
+        "value": "me.metaherobrine1.client_cmd_alias.ClientCommandAlias"
+      }
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.11.6",
+    "fabric": "*",
+    "fabric-language-kotlin": ">=1.6.2+kotlin.1.5.20",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  }
+}

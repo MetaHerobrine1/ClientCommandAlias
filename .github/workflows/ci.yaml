@@ -42,10 +42,10 @@ jobs:
 
     - name: Upload mod jar
       uses: actions/upload-artifact@v2
-        with:
-          name: mod-jar
-          path: |
-            build/libs/*.jar
-            !build/libs/*-sources.jar
-            !build/libs/*-dev.jar
-            !build/libs/*-fabric-*.jar
+      with:
+        name: mod-jar
+        path: |
+          build/libs/*.jar
+          !build/libs/*-sources.jar
+          !build/libs/*-dev.jar
+          !build/libs/*-fabric-*.jar

@@ -14,7 +14,7 @@
   },
   "license": "All Rights Reserved",
   "icon": "assets/client_cmd_alias/icon.png",
-  "environment": "*",
+  "environment": "client",
   "entrypoints": {
     "client": [
       {
